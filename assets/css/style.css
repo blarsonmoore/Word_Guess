@@ -1,0 +1,10 @@
+
+.guessed {
+  border-style: solid;
+  width: 570px;
+  height: 250px;
+}
+
+.card-title {
+  font-size: 24px;
+}
